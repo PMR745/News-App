@@ -13,5 +13,5 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
 
 <h2>Screenshots:</h2>
 <div>
-  <img src="https://drive.google.com/file/d/1GqC3sLn0ReyJ-Q3pmxEANMkS-jikcZJK/view?usp=sharing">
+  <img src="https://drive.google.com/file/d/1GqC3sLn0ReyJ-Q3pmxEANMkS-jikcZJK/view?usp=drive_link">
 </div>
