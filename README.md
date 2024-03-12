@@ -9,4 +9,4 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
 <h2>Technology Used:</h2>
 <li>Flutter</li>
 <li>Dart</li>
-<li>[News API](https://newsapi.org/)</li>
+<li><a href="https://newsapi.org/">News API</a></li>
