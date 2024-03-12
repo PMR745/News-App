@@ -3,8 +3,8 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
 
 <h2>Features:</h2>
 <li>News: Go through latest news going around the world and stay updated.</li>
-* Browse News Categories: Explore news articles from different categories such as Business, Sports, Technology, Entertainment and more
-* User-Friendly Interface: Intuitive design for seamless navigation and an enjoyable user experience.
+<li> Browse News Categories: Explore news articles from different categories such as Business, Sports, Technology, Entertainment and more. </li>
+<li> User-Friendly Interface: Intuitive design for seamless navigation and an enjoyable user experience.</li>
 
 <h2>Technology Used:</h2>
 <li>Flutter</li>
