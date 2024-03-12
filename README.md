@@ -19,4 +19,6 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
   <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img4.jpg?alt=media&token=c8a5812b-2e55-415f-8048-9d953e06b7c7" width=256 margin=10>
 </div>
 
-<a href="https://drive.google.com/file/d/1ImFchjXVU7wF5pNOh5b6Xquw5-FmWAG4/view?usp=sharing">Download Now</a>
+<h2>Download App</h2>
+
+<a href="https://drive.google.com/file/d/1ImFchjXVU7wF5pNOh5b6Xquw5-FmWAG4/view?usp=sharing">Download now for Android</a>
