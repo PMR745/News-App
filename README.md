@@ -10,3 +10,8 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
 <li>Flutter</li>
 <li>Dart</li>
 <li><a href="https://newsapi.org/">News API</a></li>
+
+<h2>Screenshots:</h2>
+<div>
+  <img src="https://drive.google.com/file/d/1GqC3sLn0ReyJ-Q3pmxEANMkS-jikcZJK/view?usp=sharing">
+</div>
