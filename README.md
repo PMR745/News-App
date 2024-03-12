@@ -13,8 +13,8 @@ Welcome to our Flutter News App repository! This app provides a sleek and intuit
 
 <h2>Screenshots:</h2>
 <div>
-  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img1.jpg?alt=media&token=5faa115e-3e02-4626-9d31-528add7d258c">
-  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img2.jpg?alt=media&token=92d5e4da-e1b0-4c10-9f56-532168a086e6">
-  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img3.jpg?alt=media&token=1f93a022-2220-4bc7-a2d4-15b585939d58">
-  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img4.jpg?alt=media&token=c8a5812b-2e55-415f-8048-9d953e06b7c7">
+  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img1.jpg?alt=media&token=5faa115e-3e02-4626-9d31-528add7d258c" width=256 margin=10>
+  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img2.jpg?alt=media&token=92d5e4da-e1b0-4c10-9f56-532168a086e6" width=256 margin=10>
+  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img3.jpg?alt=media&token=1f93a022-2220-4bc7-a2d4-15b585939d58" width=256 margin=10>
+  <img src="https://firebasestorage.googleapis.com/v0/b/database-pmr.appspot.com/o/News%20App%2FNews%20img4.jpg?alt=media&token=c8a5812b-2e55-415f-8048-9d953e06b7c7" width=256 margin=10>
 </div>
