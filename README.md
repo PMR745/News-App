@@ -21,4 +21,4 @@ Welcome to Flutter News App repository! This app provides a sleek and intuitive 
 
 <h2>Download App</h2>
 
-<a href="https://drive.google.com/file/d/1ImFchjXVU7wF5pNOh5b6Xquw5-FmWAG4/view?usp=sharing">Download now for Android</a>
+<a href="https://drive.google.com/file/d/1v-jXphJ2GJ7U1pFesQ2v25gQ26gIActH/view?usp=sharing">Download now for Android</a>
